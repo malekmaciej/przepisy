@@ -2,6 +2,8 @@
 
 Klasyczna amerykańska zapiekanka z delikatnym kurczakiem w kremowym sosie z warzywami, przykryta chrupiącym ciastem francuskim. Idealne danie na rodzinny obiad!
 
+https://youtube.com/shorts/1eMkKCOdOt4?is=oNmIQyIwoEUs8hWG
+
 ---
 
 ## Składniki
