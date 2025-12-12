@@ -2,6 +2,8 @@
 
 Klasyczne ciasteczka z dżemem, które rozpływają się w ustach! Ciasto jest niezwykle łatwe do przygotowania, a wgłębienie możesz wypełnić dowolnym dżemem. Ciasto można również zamrozić i upiec później – słodki przysmak o konsystencji krucho-maślanej gotowy w każdej chwili.
 
+https://youtu.be/vdR7Wx9PptY?si=wlV7AJLTOOORDSVL
+
 ---
 
 ## Składniki
