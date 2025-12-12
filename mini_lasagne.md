@@ -1,6 +1,6 @@
 # Babeczki lasagne (mufinki)
 
-youtube.com/shorts/AkOtlorLais?is=CQbsmdKIdt67cEaz
+https://youtube.com/shorts/AkOtlorLais?is=CQbsmdKIdt67cEaz
 
 ## Składniki
 
