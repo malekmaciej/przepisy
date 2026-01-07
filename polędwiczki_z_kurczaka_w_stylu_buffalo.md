@@ -1,5 +1,7 @@
 # Poledwiczki z kurczaka w stylu buffalo
 
+https://youtube.com/shorts/kkQY2fERtAs?si=gOGE4QG9m2ft46wD
+
 ## Wartości odżywcze na porcję (4 porcje łącznie)
 - **305 kcal**
 - **41 g białka**
