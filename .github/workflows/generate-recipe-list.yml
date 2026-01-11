@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 env:
   AWS_REGION : "eu-west-1"
-  IAM_ROLE_ARN : "arn:aws:iam::850480876735:role/github-actions-demo"
+  IAM_ROLE_ARN : "arn:aws:iam::068167017169:role/przepisy-cicd-role"
 permissions:
   id-token: write   # This is required for requesting the JWT
   contents: read    # This is required for actions/checkout
@@ -17,6 +17,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions: 
       contents: write
+      id-token: write 
 
     steps:
       - name: Checkout repository
