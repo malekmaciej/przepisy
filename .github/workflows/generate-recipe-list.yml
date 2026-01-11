@@ -67,4 +67,4 @@ jobs:
           done
       - name: Start Bedrock Ingestion Job
         run: |
-          aws --profile bedrock bedrock-agent start-ingestion-job --knowledge-base-id XK7TH8KBIF --data-source-id 6L0ICMK6TX
+          aws --region us-east-1 bedrock-agent start-ingestion-job --knowledge-base-id XK7TH8KBIF --data-source-id 6L0ICMK6TX
