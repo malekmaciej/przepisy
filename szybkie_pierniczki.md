@@ -1,4 +1,8 @@
-# 🍪 Szybkie pierniczki
+# Szybkie pierniczki
+
+## Opis
+
+Szybkie pierniczki
 
 ## Składniki (na około 55 sztuk)
 

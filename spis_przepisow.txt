@@ -1,0 +1,50 @@
+============================================================
+SPIS WSZYSTKICH PRZEPISÓW
+============================================================
+
+Łącznie przepisów: 13
+Data wygenerowania: 1768143211.99045
+
+------------------------------------------------------------
+
+1. Chicken Pot Pie (Zapiekanka z Kurczakiem)
+   Plik: Chicken_Pot_Pie.md
+
+2. Shepherd's Pie (Zapiekanka Pasterska)
+   Plik: Shepherds_Pie.md
+
+3. Miękkie i puszyste bułeczki z szynką i serem
+   Plik: buleczki_z_szynka_i_serem.md
+
+4. Ciasteczka z dziurka (Thumbprint Cookies)
+   Plik: ciasteczka_z_drzemem.md
+
+5. Ciasto marchewkowe
+   Plik: ciasto_marchewkowe.md
+
+6. Cynamonki
+   Plik: cynamonki.md
+
+7. Focaccia Idealna
+   Plik: focaccia.md
+
+8. Kutia
+   Plik: kutia.md
+
+9. Lemoniada
+   Plik: lemoniada.md
+
+10. Babeczki lasagne (mufinki)
+   Plik: mini_lasagne.md
+
+11. Poledwiczki z kurczaka w stylu buffalo
+   Plik: polędwiczki_z_kurczaka_w_stylu_buffalo.md
+
+12. Proteinowe pizzerki
+   Plik: proteinowe_pizzerki.md
+
+13. Szybkie pierniczki
+   Plik: szybkie_pierniczki.md
+
+------------------------------------------------------------
+Koniec spisu (13 przepisów)

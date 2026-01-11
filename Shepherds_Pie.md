@@ -1,5 +1,7 @@
 # Shepherd's Pie (Zapiekanka Pasterska)
 
+## Opis
+
 Klasyczna brytyjska zapiekanka z mieloną jagnięciną, warzywami i kremowym puree ziemniaczanym. Idealne danie na rodzinny obiad!
 
 https://youtu.be/yKXk7L2RzLI?si=cli5UhkU9HLfh1Jz

@@ -1,4 +1,4 @@
-# Ciasteczka z Wgłębieniem (Thumbprint Cookies)
+# Ciasteczka z dziurka (Thumbprint Cookies)
 
 Klasyczne ciasteczka z dżemem, które rozpływają się w ustach! Ciasto jest niezwykle łatwe do przygotowania, a wgłębienie możesz wypełnić dowolnym dżemem. Ciasto można również zamrozić i upiec później – słodki przysmak o konsystencji krucho-maślanej gotowy w każdej chwili.
 
