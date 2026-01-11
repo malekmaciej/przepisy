@@ -77,8 +77,8 @@ data "aws_iam_policy_document" "allow_actions" {
       "bedrock:StartIngestionJob",
     ]
     resources = [
-      "arn:aws:bedrock:eu-west-1:068167017169:knowledge-base/XK7TH8KBIF",
-      "arn:aws:bedrock:eu-west-1:068167017169:data-source/6L0ICMK6TX",
+      "arn:aws:bedrock:us-east-1:068167017169:knowledge-base/XK7TH8KBIF",
+      "arn:aws:bedrock:us-east-1:068167017169:data-source/6L0ICMK6TX",
     ]
   }
 }
