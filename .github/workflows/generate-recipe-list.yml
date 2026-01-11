@@ -5,6 +5,12 @@ on:
     branches:
       - main
   workflow_dispatch:
+env:
+  AWS_REGION : "eu-west-1"
+  IAM_ROLE_ARN : "arn:aws:iam::850480876735:role/github-actions-demo"
+permissions:
+  id-token: write   # This is required for requesting the JWT
+  contents: read    # This is required for actions/checkout
 
 jobs:
   generate-list:
@@ -44,3 +50,24 @@ jobs:
           git add spis_przepisow.txt
           git commit -m "Auto-generate recipe list [skip ci]"
           git push
+      - name: Configure AWS Credentials
+        uses: aws-actions/configure-aws-credentials@v4.0.1
+        with:
+            role-to-assume: ${{ env.IAM_ROLE_ARN }}
+            role-session-name: samplerolesession
+            aws-region: ${{ env.AWS_REGION }}
+      - name: Setup AWS CLI
+        uses: aws-actions/setup-aws-cli@v2
+        with:
+          version: 'latest'
+      - name: Upload all files in repo to S3
+        run: |
+          aws s3 cp images s3://cookbook-recipes-068167017169/images --recursive
+          aws s3 cp spis_przepisow.txt s3://cookbook-recipes-068167017169/spis_przepisow.txt
+          for file in $(ls *.md)       
+          do              
+            aws --profile bedrock s3 cp ${file} s3://${BUCKET_NAME}/${file}
+          done
+      - name: Start Bedrock Ingestion Job
+        run: |
+          aws --profile bedrock bedrock-agent start-ingestion-job --knowledge-base-id XK7TH8KBIF --data-source-id 6L0ICMK6TX
