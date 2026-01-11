@@ -2,8 +2,8 @@
 SPIS WSZYSTKICH PRZEPISÓW
 ============================================================
 
-Łącznie przepisów: 13
-Data wygenerowania: 1768157075.3423698
+Łącznie przepisów: 16
+Data wygenerowania: 1768158230.7581124
 
 ------------------------------------------------------------
 
@@ -37,14 +37,23 @@ Data wygenerowania: 1768157075.3423698
 10. Babeczki lasagne (mufinki)
    Plik: mini_lasagne.md
 
-11. Poledwiczki z kurczaka w stylu buffalo
+11. Polędwiczki wieprzowe w sosie własnym
+   Plik: poledwiczki_wieprzowe_w_sosie_wlasnym.md
+
+12. Poledwiczki z kurczaka w stylu buffalo
    Plik: polędwiczki_z_kurczaka_w_stylu_buffalo.md
 
-12. Proteinowe pizzerki
+13. Proteinowe pizzerki
    Plik: proteinowe_pizzerki.md
 
-13. Szybkie pierniczki
+14. Szarlotka mojej mamy
+   Plik: szarlotka.md
+
+15. Szybkie pierniczki
    Plik: szybkie_pierniczki.md
 
+16. Tarta z gruszką i serem pleśniowym
+   Plik: tarta_z_gruszka_i_serem_plesniowym.md
+
 ------------------------------------------------------------
-Koniec spisu (13 przepisów)
+Koniec spisu (16 przepisów)
