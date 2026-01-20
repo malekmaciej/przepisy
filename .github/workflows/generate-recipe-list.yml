@@ -67,4 +67,7 @@ jobs:
           done
       - name: Start Bedrock Ingestion Job
         run: |
-          aws --region us-east-1 bedrock-agent start-ingestion-job --knowledge-base-id XK7TH8KBIF --data-source-id 6L0ICMK6TX
+          KB_ID=L1LATMFC2C
+          BUCKET_NAME=cookbook-recipes-068167017169
+          DATA_SOURCE_ID=$(aws --region us-east-1 bedrock-agent list-data-sources --knowledge-base-id ${KB_ID} --query 'dataSourceSummaries[0].dataSourceId' --output text)
+          aws --region us-east-1 bedrock-agent start-ingestion-job --knowledge-base-id ${KB_ID} --data-source-id ${DATA_SOURCE_ID} 
