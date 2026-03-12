@@ -2,8 +2,8 @@
 SPIS WSZYSTKICH PRZEPISÓW
 ============================================================
 
-Łącznie przepisów: 18
-Data wygenerowania: 1769581662.6077118
+Łącznie przepisów: 19
+Data wygenerowania: 1773330491.881496
 
 ------------------------------------------------------------
 
@@ -34,32 +34,35 @@ Data wygenerowania: 1769581662.6077118
 9. Gulasz wołowy jednogarnkowy
    Plik: gulasz_troche_inny.md
 
-10. Kutia
+10. Kurczak Sezamowy
+   Plik: kurczak_sezamowy.md
+
+11. Kutia
    Plik: kutia.md
 
-11. Lemoniada
+12. Lemoniada
    Plik: lemoniada.md
 
-12. Babeczki lasagne (mufinki)
+13. Babeczki lasagne (mufinki)
    Plik: mini_lasagne.md
 
-13. Polędwiczki wieprzowe w sosie własnym
+14. Polędwiczki wieprzowe w sosie własnym
    Plik: poledwiczki_wieprzowe_w_sosie_wlasnym.md
 
-14. Poledwiczki z kurczaka w stylu buffalo
+15. Poledwiczki z kurczaka w stylu buffalo
    Plik: polędwiczki_z_kurczaka_w_stylu_buffalo.md
 
-15. Proteinowe pizzerki
+16. Proteinowe pizzerki
    Plik: proteinowe_pizzerki.md
 
-16. Szarlotka mojej mamy
+17. Szarlotka mojej mamy
    Plik: szarlotka.md
 
-17. Szybkie pierniczki
+18. Szybkie pierniczki
    Plik: szybkie_pierniczki.md
 
-18. Tarta z gruszką i serem pleśniowym
+19. Tarta z gruszką i serem pleśniowym
    Plik: tarta_z_gruszka_i_serem_plesniowym.md
 
 ------------------------------------------------------------
-Koniec spisu (18 przepisów)
+Koniec spisu (19 przepisów)
