@@ -2,8 +2,8 @@
 SPIS WSZYSTKICH PRZEPISÓW
 ============================================================
 
-Łącznie przepisów: 21
-Data wygenerowania: 1775315200.7774782
+Łącznie przepisów: 22
+Data wygenerowania: 1776095220.9066873
 
 ------------------------------------------------------------
 
@@ -19,56 +19,59 @@ Data wygenerowania: 1775315200.7774782
 4. Miękkie i puszyste bułeczki z szynką i serem
    Plik: buleczki_z_szynka_i_serem.md
 
-5. Ciasteczka z dziurka (Thumbprint Cookies)
+5. Cebulaki chrupiące
+   Plik: cebulaki.md
+
+6. Ciasteczka z dziurka (Thumbprint Cookies)
    Plik: ciasteczka_z_drzemem.md
 
-6. Ciasto marchewkowe
+7. Ciasto marchewkowe
    Plik: ciasto_marchewkowe.md
 
-7. Cynamonki
+8. Cynamonki
    Plik: cynamonki.md
 
-8. Focaccia Idealna
+9. Focaccia Idealna
    Plik: focaccia.md
 
-9. Gulasz wołowy jednogarnkowy
+10. Gulasz wołowy jednogarnkowy
    Plik: gulasz_troche_inny.md
 
-10. Szybka i Kremowa Zupa z Kurczakiem w Stylu Chicken Pot Pie
+11. Szybka i Kremowa Zupa z Kurczakiem w Stylu Chicken Pot Pie
    Plik: kremowa_zupa_z_kurczakiem.md
 
-11. Kurczak Sezamowy
+12. Kurczak Sezamowy
    Plik: kurczak_sezamowy.md
 
-12. Kutia
+13. Kutia
    Plik: kutia.md
 
-13. Ciasto Lamington
+14. Ciasto Lamington
    Plik: lamington.md
 
-14. Lemoniada
+15. Lemoniada
    Plik: lemoniada.md
 
-15. Babeczki lasagne (mufinki)
+16. Babeczki lasagne (mufinki)
    Plik: mini_lasagne.md
 
-16. Polędwiczki wieprzowe w sosie własnym
+17. Polędwiczki wieprzowe w sosie własnym
    Plik: poledwiczki_wieprzowe_w_sosie_wlasnym.md
 
-17. Poledwiczki z kurczaka w stylu buffalo
+18. Poledwiczki z kurczaka w stylu buffalo
    Plik: polędwiczki_z_kurczaka_w_stylu_buffalo.md
 
-18. Proteinowe pizzerki
+19. Proteinowe pizzerki
    Plik: proteinowe_pizzerki.md
 
-19. Szarlotka mojej mamy
+20. Szarlotka mojej mamy
    Plik: szarlotka.md
 
-20. Szybkie pierniczki
+21. Szybkie pierniczki
    Plik: szybkie_pierniczki.md
 
-21. Tarta z gruszką i serem pleśniowym
+22. Tarta z gruszką i serem pleśniowym
    Plik: tarta_z_gruszka_i_serem_plesniowym.md
 
 ------------------------------------------------------------
-Koniec spisu (21 przepisów)
+Koniec spisu (22 przepisów)
