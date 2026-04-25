@@ -2,8 +2,8 @@
 SPIS WSZYSTKICH PRZEPISÓW
 ============================================================
 
-Łącznie przepisów: 22
-Data wygenerowania: 1776095220.9066873
+Łącznie przepisów: 23
+Data wygenerowania: 1777112029.7665946
 
 ------------------------------------------------------------
 
@@ -61,17 +61,20 @@ Data wygenerowania: 1776095220.9066873
 18. Poledwiczki z kurczaka w stylu buffalo
    Plik: polędwiczki_z_kurczaka_w_stylu_buffalo.md
 
-19. Proteinowe pizzerki
+19. Popękane kulki cytrynowe
+   Plik: popekane_kulki_cytrynowe.md
+
+20. Proteinowe pizzerki
    Plik: proteinowe_pizzerki.md
 
-20. Szarlotka mojej mamy
+21. Szarlotka mojej mamy
    Plik: szarlotka.md
 
-21. Szybkie pierniczki
+22. Szybkie pierniczki
    Plik: szybkie_pierniczki.md
 
-22. Tarta z gruszką i serem pleśniowym
+23. Tarta z gruszką i serem pleśniowym
    Plik: tarta_z_gruszka_i_serem_plesniowym.md
 
 ------------------------------------------------------------
-Koniec spisu (22 przepisów)
+Koniec spisu (23 przepisów)
