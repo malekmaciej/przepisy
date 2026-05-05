@@ -33,6 +33,7 @@ Zbiór sprawdzonych przepisów kulinarnych pogrupowanych na słodkie i wytrawne.
 | Ciasteczka z dziurką (Thumbprint Cookies) | [ciasteczka_z_drzemem.md](ciasteczka_z_drzemem.md) |
 | Ciasto marchewkowe | [ciasto_marchewkowe.md](ciasto_marchewkowe.md) |
 | Cynamonki | [cynamonki.md](cynamonki.md) |
+| Najlepsze Cynamonki Ever w stylu słynnego Cinnabon | [cynamonki_cinnabon.md](cynamonki_cinnabon.md) |
 | Kutia | [kutia.md](kutia.md) |
 | Ciasto Lamington | [lamington.md](lamington.md) |
 | Lemoniada | [lemoniada.md](lemoniada.md) |
