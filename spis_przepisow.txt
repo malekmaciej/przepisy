@@ -2,8 +2,8 @@
 SPIS WSZYSTKICH PRZEPISÓW
 ============================================================
 
-Łącznie przepisów: 24
-Data wygenerowania: 1777397517.2652483
+Łącznie przepisów: 25
+Data wygenerowania: 1778006068.7613761
 
 ------------------------------------------------------------
 
@@ -31,53 +31,56 @@ Data wygenerowania: 1777397517.2652483
 8. Cynamonki
    Plik: cynamonki.md
 
-9. Focaccia Idealna
+9. Najlepsze Cynamonki Ever w stylu słynnego Cinnabon
+   Plik: cynamonki_cinnabon.md
+
+10. Focaccia Idealna
    Plik: focaccia.md
 
-10. Gulasz wołowy jednogarnkowy
+11. Gulasz wołowy jednogarnkowy
    Plik: gulasz_troche_inny.md
 
-11. Szybka i Kremowa Zupa z Kurczakiem w Stylu Chicken Pot Pie
+12. Szybka i Kremowa Zupa z Kurczakiem w Stylu Chicken Pot Pie
    Plik: kremowa_zupa_z_kurczakiem.md
 
-12. Kurczak Sezamowy
+13. Kurczak Sezamowy
    Plik: kurczak_sezamowy.md
 
-13. Kutia
+14. Kutia
    Plik: kutia.md
 
-14. Ciasto Lamington
+15. Ciasto Lamington
    Plik: lamington.md
 
-15. Lemoniada
+16. Lemoniada
    Plik: lemoniada.md
 
-16. Babeczki lasagne (mufinki)
+17. Babeczki lasagne (mufinki)
    Plik: mini_lasagne.md
 
-17. Placek Bananowy z Kremem (Banana Cream Pie)
+18. Placek Bananowy z Kremem (Banana Cream Pie)
    Plik: placek_bananowy_z_kremem.md
 
-18. Polędwiczki wieprzowe w sosie własnym
+19. Polędwiczki wieprzowe w sosie własnym
    Plik: poledwiczki_wieprzowe_w_sosie_wlasnym.md
 
-19. Poledwiczki z kurczaka w stylu buffalo
+20. Poledwiczki z kurczaka w stylu buffalo
    Plik: polędwiczki_z_kurczaka_w_stylu_buffalo.md
 
-20. Popękane kulki cytrynowe
+21. Popękane kulki cytrynowe
    Plik: popekane_kulki_cytrynowe.md
 
-21. Proteinowe pizzerki
+22. Proteinowe pizzerki
    Plik: proteinowe_pizzerki.md
 
-22. Szarlotka mojej mamy
+23. Szarlotka mojej mamy
    Plik: szarlotka.md
 
-23. Szybkie pierniczki
+24. Szybkie pierniczki
    Plik: szybkie_pierniczki.md
 
-24. Tarta z gruszką i serem pleśniowym
+25. Tarta z gruszką i serem pleśniowym
    Plik: tarta_z_gruszka_i_serem_plesniowym.md
 
 ------------------------------------------------------------
-Koniec spisu (24 przepisów)
+Koniec spisu (25 przepisów)
