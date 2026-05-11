@@ -2,8 +2,8 @@
 SPIS WSZYSTKICH PRZEPISÓW
 ============================================================
 
-Łącznie przepisów: 26
-Data wygenerowania: 1778520943.9187646
+Łącznie przepisów: 27
+Data wygenerowania: 1778523500.2702138
 
 ------------------------------------------------------------
 
@@ -61,29 +61,32 @@ Data wygenerowania: 1778520943.9187646
 18. Babeczki lasagne (mufinki)
    Plik: mini_lasagne.md
 
-19. Placek Bananowy z Kremem (Banana Cream Pie)
+19. Pancakes
+   Plik: pancakes.md
+
+20. Placek Bananowy z Kremem (Banana Cream Pie)
    Plik: placek_bananowy_z_kremem.md
 
-20. Polędwiczki wieprzowe w sosie własnym
+21. Polędwiczki wieprzowe w sosie własnym
    Plik: poledwiczki_wieprzowe_w_sosie_wlasnym.md
 
-21. Poledwiczki z kurczaka w stylu buffalo
+22. Poledwiczki z kurczaka w stylu buffalo
    Plik: polędwiczki_z_kurczaka_w_stylu_buffalo.md
 
-22. Popękane kulki cytrynowe
+23. Popękane kulki cytrynowe
    Plik: popekane_kulki_cytrynowe.md
 
-23. Proteinowe pizzerki
+24. Proteinowe pizzerki
    Plik: proteinowe_pizzerki.md
 
-24. Szarlotka mojej mamy
+25. Szarlotka mojej mamy
    Plik: szarlotka.md
 
-25. Szybkie pierniczki
+26. Szybkie pierniczki
    Plik: szybkie_pierniczki.md
 
-26. Tarta z gruszką i serem pleśniowym
+27. Tarta z gruszką i serem pleśniowym
    Plik: tarta_z_gruszka_i_serem_plesniowym.md
 
 ------------------------------------------------------------
-Koniec spisu (26 przepisów)
+Koniec spisu (27 przepisów)
