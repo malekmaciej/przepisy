@@ -2,8 +2,8 @@
 SPIS WSZYSTKICH PRZEPISÓW
 ============================================================
 
-Łącznie przepisów: 25
-Data wygenerowania: 1778045468.0684233
+Łącznie przepisów: 26
+Data wygenerowania: 1778516697.142658
 
 ------------------------------------------------------------
 
@@ -40,47 +40,50 @@ Data wygenerowania: 1778045468.0684233
 11. Gulasz wołowy jednogarnkowy
    Plik: gulasz_troche_inny.md
 
-12. Szybka i Kremowa Zupa z Kurczakiem w Stylu Chicken Pot Pie
+12. Karpatka
+   Plik: karpatka.md
+
+13. Szybka i Kremowa Zupa z Kurczakiem w Stylu Chicken Pot Pie
    Plik: kremowa_zupa_z_kurczakiem.md
 
-13. Kurczak Sezamowy
+14. Kurczak Sezamowy
    Plik: kurczak_sezamowy.md
 
-14. Kutia
+15. Kutia
    Plik: kutia.md
 
-15. Ciasto Lamington
+16. Ciasto Lamington
    Plik: lamington.md
 
-16. Lemoniada
+17. Lemoniada
    Plik: lemoniada.md
 
-17. Babeczki lasagne (mufinki)
+18. Babeczki lasagne (mufinki)
    Plik: mini_lasagne.md
 
-18. Placek Bananowy z Kremem (Banana Cream Pie)
+19. Placek Bananowy z Kremem (Banana Cream Pie)
    Plik: placek_bananowy_z_kremem.md
 
-19. Polędwiczki wieprzowe w sosie własnym
+20. Polędwiczki wieprzowe w sosie własnym
    Plik: poledwiczki_wieprzowe_w_sosie_wlasnym.md
 
-20. Poledwiczki z kurczaka w stylu buffalo
+21. Poledwiczki z kurczaka w stylu buffalo
    Plik: polędwiczki_z_kurczaka_w_stylu_buffalo.md
 
-21. Popękane kulki cytrynowe
+22. Popękane kulki cytrynowe
    Plik: popekane_kulki_cytrynowe.md
 
-22. Proteinowe pizzerki
+23. Proteinowe pizzerki
    Plik: proteinowe_pizzerki.md
 
-23. Szarlotka mojej mamy
+24. Szarlotka mojej mamy
    Plik: szarlotka.md
 
-24. Szybkie pierniczki
+25. Szybkie pierniczki
    Plik: szybkie_pierniczki.md
 
-25. Tarta z gruszką i serem pleśniowym
+26. Tarta z gruszką i serem pleśniowym
    Plik: tarta_z_gruszka_i_serem_plesniowym.md
 
 ------------------------------------------------------------
-Koniec spisu (25 przepisów)
+Koniec spisu (26 przepisów)
