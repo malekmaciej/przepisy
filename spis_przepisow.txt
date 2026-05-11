@@ -2,8 +2,8 @@
 SPIS WSZYSTKICH PRZEPISÓW
 ============================================================
 
-Łącznie przepisów: 26
-Data wygenerowania: 1778520990.9861913
+Łącznie przepisów: 27
+Data wygenerowania: 1778523500.2702138
 
 ------------------------------------------------------------
 
@@ -40,50 +40,53 @@ Data wygenerowania: 1778520990.9861913
 11. Gulasz wołowy jednogarnkowy
    Plik: gulasz_troche_inny.md
 
-12. Szybka i Kremowa Zupa z Kurczakiem w Stylu Chicken Pot Pie
+12. Karpatka
+   Plik: karpatka.md
+
+13. Szybka i Kremowa Zupa z Kurczakiem w Stylu Chicken Pot Pie
    Plik: kremowa_zupa_z_kurczakiem.md
 
-13. Kurczak Sezamowy
+14. Kurczak Sezamowy
    Plik: kurczak_sezamowy.md
 
-14. Kutia
+15. Kutia
    Plik: kutia.md
 
-15. Ciasto Lamington
+16. Ciasto Lamington
    Plik: lamington.md
 
-16. Lemoniada
+17. Lemoniada
    Plik: lemoniada.md
 
-17. Babeczki lasagne (mufinki)
+18. Babeczki lasagne (mufinki)
    Plik: mini_lasagne.md
 
-18. Pancakes
+19. Pancakes
    Plik: pancakes.md
 
-19. Placek Bananowy z Kremem (Banana Cream Pie)
+20. Placek Bananowy z Kremem (Banana Cream Pie)
    Plik: placek_bananowy_z_kremem.md
 
-20. Polędwiczki wieprzowe w sosie własnym
+21. Polędwiczki wieprzowe w sosie własnym
    Plik: poledwiczki_wieprzowe_w_sosie_wlasnym.md
 
-21. Poledwiczki z kurczaka w stylu buffalo
+22. Poledwiczki z kurczaka w stylu buffalo
    Plik: polędwiczki_z_kurczaka_w_stylu_buffalo.md
 
-22. Popękane kulki cytrynowe
+23. Popękane kulki cytrynowe
    Plik: popekane_kulki_cytrynowe.md
 
-23. Proteinowe pizzerki
+24. Proteinowe pizzerki
    Plik: proteinowe_pizzerki.md
 
-24. Szarlotka mojej mamy
+25. Szarlotka mojej mamy
    Plik: szarlotka.md
 
-25. Szybkie pierniczki
+26. Szybkie pierniczki
    Plik: szybkie_pierniczki.md
 
-26. Tarta z gruszką i serem pleśniowym
+27. Tarta z gruszką i serem pleśniowym
    Plik: tarta_z_gruszka_i_serem_plesniowym.md
 
 ------------------------------------------------------------
-Koniec spisu (26 przepisów)
+Koniec spisu (27 przepisów)
