@@ -37,6 +37,7 @@ Zbiór sprawdzonych przepisów kulinarnych pogrupowanych na słodkie i wytrawne.
 | Kutia | [kutia.md](kutia.md) |
 | Ciasto Lamington | [lamington.md](lamington.md) |
 | Lemoniada | [lemoniada.md](lemoniada.md) |
+| Pancakes | [pancakes.md](pancakes.md) |
 | Placek Bananowy z Kremem (Banana Cream Pie) | [placek_bananowy_z_kremem.md](placek_bananowy_z_kremem.md) |
 | Popękane kulki cytrynowe | [popekane_kulki_cytrynowe.md](popekane_kulki_cytrynowe.md) |
 | Szarlotka mojej mamy | [szarlotka.md](szarlotka.md) |
