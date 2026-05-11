@@ -1,6 +1,6 @@
 # Pancakes
 
-https://youtube.com/shorts/KdxpQVBm1FM?is=lrCucklObBleT5Fj
+https://youtube.com/shorts/KdxpQVBm1FM
 
 ## Opis
 
