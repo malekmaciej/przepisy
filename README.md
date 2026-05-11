@@ -34,6 +34,7 @@ Zbiór sprawdzonych przepisów kulinarnych pogrupowanych na słodkie i wytrawne.
 | Ciasto marchewkowe | [ciasto_marchewkowe.md](ciasto_marchewkowe.md) |
 | Cynamonki | [cynamonki.md](cynamonki.md) |
 | Najlepsze Cynamonki Ever w stylu słynnego Cinnabon | [cynamonki_cinnabon.md](cynamonki_cinnabon.md) |
+| Karpatka | [karpatka.md](karpatka.md) |
 | Kutia | [kutia.md](kutia.md) |
 | Ciasto Lamington | [lamington.md](lamington.md) |
 | Lemoniada | [lemoniada.md](lemoniada.md) |
