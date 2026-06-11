@@ -2,8 +2,8 @@
 SPIS WSZYSTKICH PRZEPISÓW
 ============================================================
 
-Łącznie przepisów: 27
-Data wygenerowania: 1778523585.668806
+Łącznie przepisów: 28
+Data wygenerowania: 1781159122.1671727
 
 ------------------------------------------------------------
 
@@ -16,77 +16,80 @@ Data wygenerowania: 1778523585.668806
 3. Shepherd's Pie (Zapiekanka Pasterska)
    Plik: Shepherds_Pie.md
 
-4. Miękkie i puszyste bułeczki z szynką i serem
+4. Łatwy i wilgotny amerykański chlebek kukurydziany (Amish Cornbread)
+   Plik: amish_cornbread.md
+
+5. Miękkie i puszyste bułeczki z szynką i serem
    Plik: buleczki_z_szynka_i_serem.md
 
-5. Cebulaki chrupiące
+6. Cebulaki chrupiące
    Plik: cebulaki.md
 
-6. Ciasteczka z dziurka (Thumbprint Cookies)
+7. Ciasteczka z dziurka (Thumbprint Cookies)
    Plik: ciasteczka_z_drzemem.md
 
-7. Ciasto marchewkowe
+8. Ciasto marchewkowe
    Plik: ciasto_marchewkowe.md
 
-8. Cynamonki
+9. Cynamonki
    Plik: cynamonki.md
 
-9. Najlepsze Cynamonki Ever w stylu słynnego Cinnabon
+10. Najlepsze Cynamonki Ever w stylu słynnego Cinnabon
    Plik: cynamonki_cinnabon.md
 
-10. Focaccia Idealna
+11. Focaccia Idealna
    Plik: focaccia.md
 
-11. Gulasz wołowy jednogarnkowy
+12. Gulasz wołowy jednogarnkowy
    Plik: gulasz_troche_inny.md
 
-12. Karpatka
+13. Karpatka
    Plik: karpatka.md
 
-13. Szybka i Kremowa Zupa z Kurczakiem w Stylu Chicken Pot Pie
+14. Szybka i Kremowa Zupa z Kurczakiem w Stylu Chicken Pot Pie
    Plik: kremowa_zupa_z_kurczakiem.md
 
-14. Kurczak Sezamowy
+15. Kurczak Sezamowy
    Plik: kurczak_sezamowy.md
 
-15. Kutia
+16. Kutia
    Plik: kutia.md
 
-16. Ciasto Lamington
+17. Ciasto Lamington
    Plik: lamington.md
 
-17. Lemoniada
+18. Lemoniada
    Plik: lemoniada.md
 
-18. Babeczki lasagne (mufinki)
+19. Babeczki lasagne (mufinki)
    Plik: mini_lasagne.md
 
-19. Pancakes
+20. Pancakes
    Plik: pancakes.md
 
-20. Placek Bananowy z Kremem (Banana Cream Pie)
+21. Placek Bananowy z Kremem (Banana Cream Pie)
    Plik: placek_bananowy_z_kremem.md
 
-21. Polędwiczki wieprzowe w sosie własnym
+22. Polędwiczki wieprzowe w sosie własnym
    Plik: poledwiczki_wieprzowe_w_sosie_wlasnym.md
 
-22. Poledwiczki z kurczaka w stylu buffalo
+23. Poledwiczki z kurczaka w stylu buffalo
    Plik: polędwiczki_z_kurczaka_w_stylu_buffalo.md
 
-23. Popękane kulki cytrynowe
+24. Popękane kulki cytrynowe
    Plik: popekane_kulki_cytrynowe.md
 
-24. Proteinowe pizzerki
+25. Proteinowe pizzerki
    Plik: proteinowe_pizzerki.md
 
-25. Szarlotka mojej mamy
+26. Szarlotka mojej mamy
    Plik: szarlotka.md
 
-26. Szybkie pierniczki
+27. Szybkie pierniczki
    Plik: szybkie_pierniczki.md
 
-27. Tarta z gruszką i serem pleśniowym
+28. Tarta z gruszką i serem pleśniowym
    Plik: tarta_z_gruszka_i_serem_plesniowym.md
 
 ------------------------------------------------------------
-Koniec spisu (27 przepisów)
+Koniec spisu (28 przepisów)
