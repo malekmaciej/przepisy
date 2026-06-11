@@ -8,6 +8,7 @@ Zbiór sprawdzonych przepisów kulinarnych pogrupowanych na słodkie i wytrawne.
 
 | Przepis | Plik |
 |---------|------|
+| Łatwy i wilgotny amerykański chlebek kukurydziany (Amish Cornbread) | [amish_cornbread.md](amish_cornbread.md) |
 | Chicken Pot Pie (Zapiekanka z Kurczakiem) | [Chicken_Pot_Pie.md](Chicken_Pot_Pie.md) |
 | English muffins z patelni – domowy McMuffin na śniadanie | [English_muffin.md](English_muffin.md) |
 | Shepherd's Pie (Zapiekanka Pasterska) | [Shepherds_Pie.md](Shepherds_Pie.md) |
