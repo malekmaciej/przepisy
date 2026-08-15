@@ -12,6 +12,7 @@ Zbiór sprawdzonych przepisów kulinarnych pogrupowanych na słodkie i wytrawne.
 | Chicken Pot Pie (Zapiekanka z Kurczakiem) | [Chicken_Pot_Pie.md](Chicken_Pot_Pie.md) |
 | English muffins z patelni – domowy McMuffin na śniadanie | [English_muffin.md](English_muffin.md) |
 | Shepherd's Pie (Zapiekanka Pasterska) | [Shepherds_Pie.md](Shepherds_Pie.md) |
+| Czosnkowo-serowe bułeczki | [buleczki_czosnkowo_serowe.md](buleczki_czosnkowo_serowe.md) |
 | Miękkie i puszyste bułeczki z szynką i serem | [buleczki_z_szynka_i_serem.md](buleczki_z_szynka_i_serem.md) |
 | Cebulaki chrupiące | [cebulaki.md](cebulaki.md) |
 | Focaccia Idealna | [focaccia.md](focaccia.md) |
