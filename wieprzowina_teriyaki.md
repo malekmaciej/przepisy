@@ -21,6 +21,7 @@ Soczyste medalliony z polędwiczki wieprzowej glazurowane słodko-słonym sosem 
 - **2** dymki (cebulki dyscyplinarne)
 - **1,5 łyżki** sake
 - **60 ml** sosu sojowego
+- **1 łyżeczka** octu ryżowego
 - **60 ml** mirinu
 - **1 łyżka** miodu
 - **1 łyżeczka** oleju sezamowego
@@ -62,7 +63,7 @@ Soczyste medalliony z polędwiczki wieprzowej glazurowane słodko-słonym sosem 
 2. Na tej samej patelni rozgrzej pozostały olej na średnim ogniu.
 3. Dodaj czosnek i białą część dymek; smaż 1–2 minuty, aż zmiękną.
 4. Wlej sake i zdeglazuj patelnię, skrobiąc przypieczone resztki.
-5. Dodaj sos sojowy, mirin, miód i olej sezamowy. Zamieszaj i doprowadź do wrzenia.
+5. Dodaj sos sojowy, ocet ryżowy, mirin, miód i olej sezamowy. Zamieszaj i doprowadź do wrzenia.
 6. Wróć medaliony na patelnię, zwiększ ogień i glazuruj mięso, obracając je w sosie, aż sos zgęstnieje.
 7. Zdejmij z ognia i wymieszaj z zielonymi częściami dymek.
 
