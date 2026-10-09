@@ -2,8 +2,8 @@
 SPIS WSZYSTKICH PRZEPISÓW
 ============================================================
 
-Łącznie przepisów: 30
-Data wygenerowania: 1786803946.024951
+Łącznie przepisów: 31
+Data wygenerowania: 1791559046.740474
 
 ------------------------------------------------------------
 
@@ -88,14 +88,17 @@ Data wygenerowania: 1786803946.024951
 27. Proteinowe pizzerki
    Plik: proteinowe_pizzerki.md
 
-28. Szarlotka mojej mamy
+28. Sernikobrownie z malinami
+   Plik: sernikobrownie_z_malinami.md
+
+29. Szarlotka mojej mamy
    Plik: szarlotka.md
 
-29. Szybkie pierniczki
+30. Szybkie pierniczki
    Plik: szybkie_pierniczki.md
 
-30. Tarta z gruszką i serem pleśniowym
+31. Tarta z gruszką i serem pleśniowym
    Plik: tarta_z_gruszka_i_serem_plesniowym.md
 
 ------------------------------------------------------------
-Koniec spisu (30 przepisów)
+Koniec spisu (31 przepisów)
