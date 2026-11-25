@@ -1,0 +1,22 @@
+[project]
+site_name = "Przepisy"
+site_description = "Zbiór sprawdzonych przepisów kulinarnych"
+site_url = "https://malekmaciej.github.io/przepisy/"
+repo_url = "https://github.com/malekmaciej/przepisy"
+docs_dir = "docs"
+site_dir = "site"
+use_directory_urls = false
+
+[project.theme]
+language = "pl"
+features = ["navigation.instant", "navigation.top", "search.highlight", "content.code.copy"]
+
+[[project.theme.palette]]
+scheme = "default"
+toggle.icon = "lucide/sun"
+toggle.name = "Tryb ciemny"
+
+[[project.theme.palette]]
+scheme = "slate"
+toggle.icon = "lucide/moon"
+toggle.name = "Tryb jasny"
